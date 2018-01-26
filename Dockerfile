@@ -1,4 +1,4 @@
-FROM python:3.6.0
+FROM python:3.6
 
 RUN apt-get update -qq && apt-get install -yqq curl
 RUN curl -sL https://deb.nodesource.com/setup_8.x | bash
