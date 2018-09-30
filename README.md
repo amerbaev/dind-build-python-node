@@ -1,2 +1,2 @@
 # Docker Python Node
-Container with a Python 3.6 and NodeJS 9
+Container with a Python 3.7 and NodeJS 10
